@@ -19,7 +19,7 @@
 				
 <div class="hr"></div>
 
-				<p>Greene, Alan F. and Hartley, Charles W. 2009. <a href="Greene_and_Hartley_2009.pdf">From Analog to Digital: Protocols and Program for a Systematic Digital Radiography of Archaeological Pottery.</a> In <em>Proceedings of the Conference EMAC '07 9th European Meeting on Ancient Ceramics, 24-27 October 2007</em>, edited by K. Biró, V. Szilágyi, and A. Kreiter, pp. 5-14. Hungarian National Museum, Budapest.</p>
+				<p>Greene, Alan F. and Hartley, Charles W. 2009. <a href="_pubs/Greene_and_Hartley_2009.pdf">From Analog to Digital: Protocols and Program for a Systematic Digital Radiography of Archaeological Pottery.</a> In <em>Proceedings of the Conference EMAC '07 9th European Meeting on Ancient Ceramics, 24-27 October 2007</em>, edited by K. Biró, V. Szilágyi, and A. Kreiter, pp. 5-14. Hungarian National Museum, Budapest.</p>
                 
 <p><a href="publications.php">back to top</a></p>
 <div class="hr_thin"></div>
