@@ -1,0 +1,368 @@
+/* MAE styles */
+
+
+
+body {
+	font-family: "Helvetica neue", Helvetica, sans-serif;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+
+/* background 003366 (light) and 000033 (dark) */
+	background-image: linear-gradient(bottom, rgb(0,51,102) 16%, rgb(0,0,51) 58%);
+	background-image: -o-linear-gradient(bottom, rgb(0,51,102) 16%, rgb(0,0,51) 58%);
+	background-image: -moz-linear-gradient(bottom, rgb(0,51,102) 16%, rgb(0,0,51) 58%);
+	background-image: -webkit-linear-gradient(bottom, rgb(0,51,102) 16%, rgb(0,0,51) 58%);
+	background-image: -ms-linear-gradient(bottom, rgb(0,51,102) 16%, rgb(0,0,51) 58%);
+
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.16, rgb(0,51,102)),
+	color-stop(0.58, rgb(0,0,51))
+	);
+
+	}
+
+#main_wrapper {
+	max-width: 900px;
+	min-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	}	
+
+#main_wrapper_inner {
+	float: right;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+/* 	padding-bottom: 100px; */
+	}
+
+p .first {
+	margin: 0;
+	padding: 0;
+	}
+
+a:link, a:visited {
+	color: #009;
+	text-decoration: none;
+	}
+
+a:hover, a:visited:hover {
+	color: #33c;
+	text-decoration: underline;
+	}
+
+A:hover {
+	color: #33c;
+	text-decoration: none;
+	}
+
+.icon {
+/* 	border: none; */
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	}
+
+.twitter {
+	background-image: url(_images/twitter_logo_16x16px.gif);
+	}
+
+.flickr {
+	background-image: url(_images/picasa_logo_16x16px.gif);
+	}
+
+.phlabs {
+	background-image: url(_images/phlabs_logo_16x16px.gif);
+	}
+
+.icon_phlabs {
+/* 	padding-left: 20px; */
+	background-repeat: no-repeat;
+	background-position: right center;
+	}
+
+.hr {
+	color: ;
+	border-bottom: 3px solid #ccd;
+	height: 1px;
+	margin: 40px 0 40px 0;
+	}
+
+.hr_thin {
+	color: ;
+	border-bottom: 2px solid #ccd;
+	height: 2px;
+	margin: 30px 0;
+	clear: both;
+	}
+
+
+
+
+
+/* header */
+
+
+#header_logo {
+	width: 900px;
+	float: left;
+	display: block;
+	}
+
+#header_logo img {
+	width: 100%;
+	display: block;
+	margin-top: 3px;
+	}
+
+#org_logos_horizontal {
+	padding: none;
+	margin: none;
+/* 	background-color: aqua; */
+	clear: both;
+	}
+
+
+
+
+/* Right Nav */
+
+h3 {
+/* 	font-family: Helvetica, sans-serif; */
+	font-size: 18px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #000;
+	margin: 0;
+	padding: 0 0 10px 0;
+/* 	background-color: aqua; */
+	}
+
+span h3 { /* adds padding to research and mae login headers */
+	padding-top: 30px; 
+	}
+
+#right_nav {
+	width: 230px;
+	margin: 0;
+	float: right; /* float left or right with content div below  */
+/* 	background-color: aqua; */
+/* 	border-left: solid 2px #ccd; */
+	}
+
+#right_nav_inner {
+	margin: 0;
+	padding: 40px 0 0px 40px; /* top padding must match top padding of content inner div below plus 10px */
+	}
+
+#right_nav_inner ul {
+/* 	font-family: Helvetica, sans-serif; */
+	font-size: 15px;
+	line-height: 20px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+/* 	background-color: ; */
+	}
+
+#right_nav_inner li#last {
+	padding-bottom: 50px;
+	}
+
+
+
+/* home page */
+
+#twitter_feed {
+	padding-top: 25px;
+	}
+
+
+
+
+
+/* content */
+
+#content {
+	width: 670px;
+	float: left; /* float left or right with left nav above  */ 
+	margin: 0;
+	padding: 0;
+/* 	background-color: red; */
+	}
+
+#content_inner {
+	margin: 30px 0 50px 0;
+	padding-left: 90px;
+/* 	----------- padding-left: 125px; Jess' fix ---------- */
+/* 	background-color: aqua; */
+	}
+
+#content h2 {
+/* 	font-family: Helvetica, sans-serif; */
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+	padding: 10px 0; 
+/* 	background-color: lime; */
+	}
+
+#content p {
+	line-height: 1.35;	/* line-height defaul is usually 1.2 (don't add "em") */
+	}
+
+
+
+
+
+/* 
+--------------------------------------------------------
+---------------START HERE NEXT TIME---------------------  
+--------------------------------------------------------
+*/
+
+
+/* team page */
+
+h5 {
+/* 	font-family: "Helvetica neue", Helvetica, sans-serif; */
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0;
+	padding: 20px 0 10px 0; 
+	clear: both;
+	}
+
+.team_member {
+	clear: both;
+	padding: 10px 0;
+	}
+
+.team_member_photo {
+	float: left;
+	padding: 14px 14px 0 0;
+	}
+
+.team_member_info {
+	float: left;
+	width: 490px;
+	}
+
+.team_member_info ul {
+/* 	font-family: Helvetica, sans-serif; */
+	font-size: 16px;
+	line-height: 20px;
+	list-style: none;
+	margin: 0;
+	padding: 10px 0;
+/* 	background-color: red; */
+	}
+
+li.researchers {
+	font-weight: bold;
+	}
+
+#lastmember {
+	padding-bottom: 40px;
+/* 	background-color: aqua; */
+	}
+
+
+
+
+
+/* Footer */
+#footer {
+	/* 	background-color: gray; */
+	background-color: #f8f8f8;  /* light gray */
+	border-top: 2px solid #ccc;
+	border-bottom: 3px solid #ccc;
+/* 	border-bottom: 10px solid #ccc;  */
+	/* padding: 0 0 1px 0 !important; */ /* bottom padding determines height  */
+	padding: 0;
+	clear: both;
+	float: left;
+/* 	margin-top: 50px; */
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#footer_inner {
+	margin: 20px 0 20px 80px;
+	float: left;
+/* 	background-color: gray; */
+	}
+
+
+#footer h6 {
+	font-size: 17px;
+	font-weight: normal;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+/* 	text-decoration: underline; */
+	color: #000;
+	margin: 0;
+	padding: 0 0 10px 0;
+	}
+
+
+/*
+h3 {
+	font-size: 19px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #000;
+	margin: 0;
+	padding: 0 0 10px 0;
+	}
+*/
+
+
+#footer_inner ul {
+	margin: 20px 0;
+	padding: 0 10px; 
+	width: 20%;
+	float: left;
+/* 	background-color: purple; */
+/* ----------  padding-left: 125px; ---------- */
+	}
+
+#footer_inner li {
+/* 	display: inline; */
+/* 	float: left; */
+	list-style: none;
+	line-height: 15px;
+	margin: 0;
+	padding: 5px 0;
+	}
+
+
+#footer_inner li#last {
+	padding-top: 100px;
+	font-family: Futura;
+	font-style: italic;
+	}
+
+#footer_inner li#phlabs {
+	font-family: Futura;
+	font-style: italic;
+	}
+
+#footer_inner li#phlabs a {
+	color: black;
+	}
+
+	
+
+
+
+
+
