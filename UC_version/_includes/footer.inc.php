@@ -32,6 +32,7 @@
 				<li><a target="_blank" href="http://www.kaogu.cn/en/index.asp">Chinese National Institute of Archaeology (IA, CASS)</a></li>
 				<li><a target="_blank" href="http://www.kaogu.cn/en/detail.asp?ProductID=1132">Yi Luo River Valley Survey Project (YRV)</a></li>
 				<li><a target="_blank" href="http://www.saie.wustl.edu/">Central Asian Archaeology and Spatial Analysis Laboratory (SAIE)</a></li>
+                <li><a target="_blank" href="http://www.aragats.net/">Project for the Archaeology and Geography of Ancient Transcaucasian Societies (ArAGATS)</a></li>
 				<li id="last">Copyright 2012, MAE Project</li>
 				<li id="phlabs"><a target="_blank" href="http://www.phlabs.net/" class="phlabs icon">website by Ph Labs</a></li>
 

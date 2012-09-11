@@ -1,6 +1,14 @@
 
 
-<?php include "_includes/head.inc.php"; ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>The Making of Ancient Eurasia Project</title> 
+<link href="styles.css" media="all" rel="stylesheet" type="text/css" /> 
+<link rel="shortcut icon" href="_images/favicon.ico"/>
+</head> 
 
 
 <body id="body_instrumentation"> 
@@ -8,7 +16,69 @@
 		<div id="main_wrapper_inner"> 
 
 
-<?php include "_includes/nav.inc.php"; ?>
+<div id="header">
+	<div id="header_logo">
+		<img src="_images/MAE_Logo-Graphic1-slim.png">
+	</div>
+
+	<div id="org_logos_horizontal">
+		<img src="_images/Institution_Logos-slim.png">
+	</div>
+
+	<div id="header_image_wide">
+		<img id="header_image_wide" src="_images/mae_header_image_may2012.png">
+	</div>
+</div> <!-- end header -->
+
+
+<div id="right_nav">
+	<div id="right_nav_inner">
+		<h3>Research Foci:</h3>
+		<ul> 
+			<li><a href="index.html">About MAE</a></li>	
+			<li><a href="anthropology.html">Anthropology</a></li>						
+			<li><a href="archaeometry.html">Archaeometry</a></li>				
+			<li><a href="instrumentation.html">Instrumentation</a></li>
+		</ul> 
+
+		<span><h3>Project Details:</h3></span>
+		<ul>
+			<li><a href="team.html">Team</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="contact.html">Contact</a></li>
+			<!--
+			<li><a href="projects.php">Projects</a></li>
+			<li><a href="results.php">Results</a></li>
+			<li><a href="resources.php">Resources</a></li>
+			<li><a href="bibliography.php">Bibliography</a></li>
+			-->
+			<!-- 					
+			<li><a href="images.php">Images</a></li> 
+			-->
+	  	</ul>
+	  
+	  	<span><h3>Resources:</h3></span>
+	  	<ul>
+			<li><a target="_blank" href="http://corinth.uchicago.edu/maewiki/doku.php">Wiki</a></li> 
+            <li><a target="_blank" href="http://corinth.uchicago.edu/repid/">REPID</a></li>
+            <li><a target="_blank" href="http://mae.uchicago.edu/References/">Library</a></li>
+			<!--
+			<li><a href="certifications.php">Certifications</a></li>				
+			<li><a href="forms.php">Forms</a></li>
+			<li><a href="articles.php">Articles</a></li>
+			-->
+		</ul>
+
+		<span><h3>Follow MAE:</h3></span>
+	  	<ul>
+			<li><a target="_blank" href="http://twitter.com/#!/MAEarchaeometry" class="twitter icon">@MAEarchaeometry</a></li> 
+			<li id="last"><a target="_blank" href="https://picasaweb.google.com/113506020224703151967" class="flickr icon">MAE on Picasa</a></li>
+
+
+		</ul>
+		
+	</div> <!-- end left_nav_inner -->
+</div> <!-- end left_nav -->
 
 
 		<div id="content">
@@ -22,7 +92,7 @@
 <h4><a name="A1">Digital Radiography (DR)</a></h4>
 
 <p>Previous applications of x-ray imaging technology in archaeology have focused on the use of analog (film) radiographic imaging methods to assess internal, macro-scale features of archaeological materials, including ceramic fabrics, human and animal bones, textiles, and light metals. Our research pushes the programmatic transition from analog to digital radiographic imaging methods using the Argonne's NED experimental X-ray facility, a spatially unrestricted and tunable instrument that can achieve up to 420 kVp.  Adjustments in technique are needed due to the differences between analog film and the <a href="http://en.wikipedia.org/wiki/Photostimulated_luminescence" title="Photostimulated luminescence">photostimulated luminescence</a> material used in digital detectors, but the physical principles remain essentially unchanged, resulting in digital images displaying the micro- and macro-scale  structural features of archaeological materials. Digital imagery of ceramics enables the rapid, high volume collection of assemblage-based data as well as the ability to post-process and manipulate imagery through our Sherd Image Visulatizationa and Analysi (ShIVA) software.</p>
-<p><a href="instrumentation.php">back to top</a></p>
+<p><a href="instrumentation.html">back to top</a></p>
 <div class="hr_thin"></div>
 
 
@@ -30,7 +100,7 @@
 
 <p>X-ray computed tomography, the production of three-dimensional tomographic volumes and two-dimensional tomograms, provides MAE researchers with the ability to non-distructively section and examine ceramic artifacts with resolutions as fine as dozens on microns. A computed combination of radiogarphs, XCT can most easily be described as the a "moving" radiograph, in the same way that motkon pictures are simply a moving sequence of individual photographs. While radiography takes a single two-dimensional image of each sample, data acquisition for XCT involves collecting many radiographs of the sample taken from unique angles as the sample stage rotates 360 degress. Following data acqusition, these radiographs are <b>computed</b> into a three-dimensional volume through a process called "back projection" and made available for a variety of qualitative and quantitative manipulations, including slicing, porosity estimation, void mapping, etc.</p>
 <p>XCT data collection at ANL is conducted with both linear (CMOS) and area detectors, utilizing custom data acqusition softwares, which MAE has augmented for the particular vicissitudes of archaeological materials analysis. sWorking in concert with ANL scientists, MAE researchers now back project XCT data on the Sun Solaris computing platform at the University of Chicago's Department of Anthropology's. As a multi-threaded application running on a 64-processor server, back projection and post-processing is now quick and agile.</p>
-<p><a href="instrumentation.php">back to top</a></p>
+<p><a href="instrumentation.html">back to top</a></p>
 <div class="hr_thin"></div>
 
 
@@ -39,13 +109,13 @@
 <p>Synchrotron X-ray analysis, in all of its various forms and applications, provides nano-scale analysis of artifact structures that are inaccessible through standard radiographic and tomographic techniques.  Because of their extremely high energies, synchrotron X-rays allow non-destructive, bulk analysis of artifact elemental composition and microstructure, making these techniques highly attractive to our assemblage-based approach and consonant with the preservation goals of archaeology.</p>
 <p>For research on ceramic materials, MAE utilizes small- and wide-angle X-ray scattering (SAXS/WAXS), performed at the APS' ChemMatCARS beamline. SAXS/WAXS utilizes transmission geometry, where the amount of sample measured only depends on the specimen thickness, which can be controlled by closely monitoring the beam attenuation with the CCD X-ray camera. Our assemblage-based work with several hundred samples from Armenia, China, and Russia represents, to our knowledge, the single largest sample of archaeological materials ever examined with a synchrotron. SAXS/WAXS data are condensed to a limited set of numerical parameters including such quantities as: position and relative intensity of the most dominant Debye-Scherrer lines, azimuthal distribution of line intensities or 'spottiness', and the relative proportion of crystalline versus amorphous scattering. These quantities reflect micro- and meso-structural characteristics of ceramics, including the character of plastic and non-plastic constituents,  the spatial organization and orientation of clay particles and inclusions, water content, porosity, etc.</p>
 <p>Synchrotron techniques for the analysis of metal artifacts, undertaken at the APS' Sector 1, include high-energy transmission mode XRD  for the non-destructive measurement of polycrystal grain sizes and textures. It is simultaneously possible to carry out grain XRF measurements, enabling us to learn about the samples' elemental composition. This analysis applies an expanding conical beam to capture micro structural and compositional data from at least 1000 crystals. This analysis allows us to non-destructively discriminate between metal groups (copper, tin bronze, arsenic bronze, silver, and gold), and identify the relative proportion of alloy components in our samples. MAE researchers quantify the XRD results in order to systematically identify crystalline microstructures by utilizing similar data to that for ceramics (Debye-Scherrer patterning, line intensities, and scattering), identifying the phasing and the metalworking techniques through which the objects were formed (casting, annealing, forging followed by annealing, and intensity of cold-working).</p>
-<p><a href="instrumentation.php">back to top</a></p>
+<p><a href="instrumentation.html">back to top</a></p>
 <div class="hr_thin"></div>
 
 
 <h4><a name="A4">Scanning Electron Microscopy (SEM)</a></h4>
 
-<p>Our for scanning electron microscopy (SEM) is one that combines the enhanced imaging capacities of SEM in the investigation of the microstructure of objects with the qualitative and quantitative analysis of the elemental composition of those structures by electron-dispersed spectrometry (EDS). The Hitachi S-4700-2 FESEM at the EMC combines high resolution SEM with EDS and is the preferred instrument for MAE. An environmental SEM (ESEM) is also available as needed, and can be operated without a vacuum to accommodate the wet and dirty samples that often confront archaeologists. To date, our SEM-EDS analysis has centered on ancient Eurasian gold work, but has also examined ceramics in order to distinguish wheel thrown pots from those turned by hand, relative firing temperatures based on vitrification, and patterns of interaction and exchange. The investigation of pyrotechnology through SEM constitutes one of the primary means of interrogating links between ceramic and metal technologies.<p><a href="instrumentation.php">back to top</a></p>
+<p>Our for scanning electron microscopy (SEM) is one that combines the enhanced imaging capacities of SEM in the investigation of the microstructure of objects with the qualitative and quantitative analysis of the elemental composition of those structures by electron-dispersed spectrometry (EDS). The Hitachi S-4700-2 FESEM at the EMC combines high resolution SEM with EDS and is the preferred instrument for MAE. An environmental SEM (ESEM) is also available as needed, and can be operated without a vacuum to accommodate the wet and dirty samples that often confront archaeologists. To date, our SEM-EDS analysis has centered on ancient Eurasian gold work, but has also examined ceramics in order to distinguish wheel thrown pots from those turned by hand, relative firing temperatures based on vitrification, and patterns of interaction and exchange. The investigation of pyrotechnology through SEM constitutes one of the primary means of interrogating links between ceramic and metal technologies.<p><a href="instrumentation.html">back to top</a></p>
 <div class="hr_thin"></div>
 
 
@@ -54,7 +124,7 @@
 <p>pXRF analysis at the Field Museum combines the illuminating dicrimination of constituent elemental compositions with the high volume, non-destructive, rapid data collection available in a portable analytical device. MAE researchers are working with collaborators at the Field's <a href"http://fieldmuseum.org/explore/department/anthropology/archaeological-science">(EAF)</a> to develop protocols for high volume pXRF data collection and corroboration with high resolution techniques such as instrumental neutron activation (NAA) and synchrotron-based XRF.<p>
 <p></p>
 <p></p>
-<p><a href="instrumentation.php">back to top</a></p>
+<p><a href="instrumentation.html">back to top</a></p>
 <div class="hr_thin"></div>
 
 		
@@ -62,8 +132,48 @@
 			</div><!--end content-->
 
 			
-<?php include "_includes/footer.inc.php"; ?>
+<div id="footer">
+		<div id="footer_inner">
+			
+			<ul>
+				<h6>Participating Institutions</h6>	
+				<li><a target="_blank" href="http://www.uchicago.edu/index.shtml">University of Chicago</a></li>
+				<li><a target="_blank" href="http://www.anl.gov/">Argonne National Laboratory</a></li>
+				<li><a target="_blank" href="http://www.uchicagoargonnellc.org/">UChicago/Argonne, LLC</a></li>
+			</ul>
 
+
+			<ul>
+				<h6>Argonne National Laboratory Divisions</h6>	
+				<li><a target="_blank" href="http://www.ne.anl.gov/">ANL Nuclear Engineering Division (NED)</a></li>
+				<li><a target="_blank" href="http://www.msd.anl.gov/">ANL Materials Science Division (MSD)</a></li>
+				<li><a target="_blank" href="http://cars.uchicago.edu/">Consortium for Advanced Radiation Sources (CARS)</a></li>
+				<li><a target="_blank" href="http://cars9.uchicago.edu/chemmat/index.html">ChemMat CARS</a></li>
+			</ul>
+
+
+			<ul>
+				<h6>Argonne National Laboratory Facilities</h6>	
+				<li><a target="_blank" href="http://www.aps.anl.gov/">Advanced Photon Source (APS)</a></li>
+				<li><a target="_blank" href="http://www.msd.anl.gov/groups/emc/">Electron Microscopy Center (EMC)</a></li>
+			</ul>
+
+
+			<ul>
+				<h6>Archaeological Projects</h6>	
+				<li><a target="_blank" href="http://www.kaogu.cn/en/index.asp">Chinese National Institute of Archaeology (IA, CASS)</a></li>
+				<li><a target="_blank" href="http://www.kaogu.cn/en/detail.asp?ProductID=1132">Yi Luo River Valley Survey Project (YRV)</a></li>
+				<li><a target="_blank" href="http://www.saie.wustl.edu/">Central Asian Archaeology and Spatial Analysis Laboratory (SAIE)</a></li>
+                <li><a target="_blank" href="http://www.aragats.net/">Project for the Archaeology and Geography of Ancient Transcaucasian Societies (ArAGATS)</a></li>
+				<li id="last">Copyright 2012, MAE Project</li>
+				<li id="phlabs"><a target="_blank" href="http://www.phlabs.net/" class="phlabs icon">website by Ph Labs</a></li>
+
+			</ul>
+
+
+		</div><!--end footer_inner-->
+	</div><!--end footer-->
+    
 
 		</div> <!--end main_wrapper_inner --> 
 	</div> <!--end main_wrapper --> 
