@@ -59,7 +59,7 @@
 <div class="team_member">
 
 	<div class="team_member_photo">
-		<img src="_images/mae_team_member_photo.gif">
+		<img src="_images/placeholder.png">
 	</div>
 
 	<div class="team_member_info">
@@ -93,7 +93,7 @@
 <div class="team_member">
 
 	<div class="team_member_photo">
-		<img src="_images/mae_team_member_photo.gif">
+		<img src="_images/placeholder.png">
 	</div>
 
 	<div class="team_member_info">
@@ -178,7 +178,7 @@
 <div class="team_member">
 
 	<div class="team_member_photo">
-		<img src="_images/mae_team_member_photo.gif">
+		<img src="_images/placeholder.png">
 	</div>
 
 	<div class="team_member_info">
