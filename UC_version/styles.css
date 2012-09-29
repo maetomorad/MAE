@@ -126,7 +126,12 @@ A:hover {
 	clear: both;
 	}
 
-
+.headerReplacement {
+   text-indent: -9999px;
+   width: 900px;
+   height: 150px;
+   background: url(_images/Institution_Logos-slim-new.png) #cccccc no-repeat;  
+   }
 
 
 /* Right Nav */
