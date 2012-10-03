@@ -2,15 +2,15 @@
 		
 <div id="header">
 	<div id="header_logo">
-		<img src="_images/MAE_Logo-Graphic1-slim.png">
+		<img src="_images/MAE_Logo-Graphic1-ultra_slim.png">
 	</div>
 
 	<div id="org_logos_horizontal">
-		<img src="_images/Institution_Logos-slim.png">
+		<img src="_images/Institution_Logos-extra_slim-new.png">
 	</div>
 
 	<div id="header_image_wide">
-		<img id="header_image_wide" src="_images/mae_header_image_may2012.png">
+		<img id="header_image_wide" src="_images/banner_11.jpg">
 	</div>
 </div> <!-- end header -->
 
