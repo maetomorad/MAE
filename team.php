@@ -116,9 +116,9 @@
 	<div class="team_member_info">
 <ul>
 <li class="researchers">Alan Greene</li>
-<li>Ph.D. Candidate, Department of Anthropology</li>
-<li>University of Chicago</li>
-<li><a href="mailto:agreene@uchicago.edu">agreene@uchicago.edu</a></li>
+<li>Postdoctoral Fellow in Archaeological Science, Stanford Archaeology Center</li>
+<li>Stanford University</li>
+<li><a href="mailto:afgreene@stanford.edu">afgreene@stanford.edu</a></li>
 </ul>
  	</div> 
 
