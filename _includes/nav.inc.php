@@ -6,7 +6,7 @@
 	</div>
 
 	<div id="org_logos_horizontal">
-		<img src="_images/Institution_Logos-slim.png">
+		<img src="_images/Institution_Logos-extra_slim2.png">
 	</div>
 
 	<div id="header_image_wide">
