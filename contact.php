@@ -16,13 +16,12 @@
 
 				<h2>Contact</h2>
 				<p>Making of Ancient Eurasia Project<br />
-                c/o Alan Greene<br />
-                Department of Anthropology<br />
-                University of Chicago<br />
-                1126 E 59th St.<br />
-                Chicago, IL 60637</p>
+c/o Alan Greene<br />
+Stanford Archaeology Center<br />
+PO Box 20446<br />
+Stanford, CA 94309</p>
                 
-                <div class="hr_thin"></div>
+              <div class="hr_thin"></div>
 						
 				<p>email: <a href="mailto:maetomorad@gmail.com">maetomorad @ gmail.com</a></p>
 				</div> <!-- end content_inner -->
