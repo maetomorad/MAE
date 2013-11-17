@@ -55,7 +55,7 @@
                                         <!-- 
                                         </div> 
                                         --> <!-- end twitter_feed -->
-                
+                  <!--
                                         <div id="twitter_feed">
                                                 <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
                                                 <script>
@@ -85,8 +85,10 @@
                                                   }
                                                 }).render().setUser('MAEarchaeometry').start();
                                                 </script>
-                                        </div>
-
+                                        </div><!-- end twitter_feed -->
+                                        
+                                        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/MAEarchaeometry" data-widget-id="402175435892473857">Tweets by @MAEarchaeometry</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
                                 </div> <!-- end content_inner -->
                         </div><!--end content-->
