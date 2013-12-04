@@ -12,6 +12,7 @@
                 <li><a target="_blank" href="http://www.synchrotron.org.au//">Australian Synchrotron</a></li>
                 <li><a target="_blank" href="http://www.isu.edu/">Idaho State University</a></li>
                 <li><a target="_blank" href="http://www.cornell.edu/">Cornell University</a></li>
+                <li><a target="_blank" href="http://www.stanford.edu/">Stanford University</a></li>
 			</ul>
 
 
