@@ -15,7 +15,19 @@
 			<div id="content_inner">
 			
 				<h2>Publications</h2>
-				<p>Greene, Alan F. 2012. Where Pottery and Politics Meet: Mundane Objects and Complex Political Life in the Late Bronze Age South Caucasus. In <em><a target="_blank" href="http://www.cambridge.org/us/academic/subjects/archaeology/prehistory/archaeology-power-and-politics-eurasia-regimes-and-revolutions">The Archaeology of Power and Politics in Eurasia: Regimes and Revolutions</a></em>. Cambridge University Press, Cambridge.</p> 
+				<p> Greene, A. F. and Hartley, C.W. N.d. The Structure of Ceramic Analysis: Multiple Scales and Instruments in the Analysis of Pottery Production. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
+                
+        <div class="hr"></div> 
+        
+				<p>Hartley, C. W., A. F. Greene, and P. N. Doumani. N.d. From Structure to Composition and Back: Digital Radiography and Computed Tomography; Some Cases for Anthropological Contemplation. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
+                
+        <div class="hr"></div> 
+        
+				<p>Doumani, P.N., Frachetti, M.D., Beardmore, R., Schmaus, T., Spengler III, R.N., Mar'yashev, A.N. In review. Innovation and Stability in Burial Ritual, Seasonal Agriculture, and Craft Traditions among Bronze Age Mobile Pastoralists as Tasbas (SE Kazakhstan). manuscript submitted to <em> World Archaeology</em>.</p> 
+                
+        <div class="hr"></div>        
+                
+				<p>Greene, Alan F. 2012. Where Pottery and Politics Meet: Mundane Objects and Complex Political Life in the Late Bronze Age South Caucasus. In <em><a target="_blank" href="http://www.cambridge.org/us/academic/subjects/archaeology/prehistory/archaeology-power-and-politics-eurasia-regimes-and-revolutions">The Archaeology of Power and Politics in Eurasia: Regimes and Revolutions</a></em>, C. W. Hartley, G. B. Yazicioğlu, and A. T. Smith, eds. Cambridge University Press, Cambridge.</p> 
 				
 <div class="hr"></div>
 
