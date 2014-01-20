@@ -15,7 +15,7 @@
 			<div id="content_inner">
 			
 				<h2>Publications</h2>
-				<p> Greene, A. F. and Hartley, C.W. N.d. The Structure of Ceramic Analysis: Multiple Scales and Instruments in the Analysis of Pottery Production. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
+				<p> Greene, A. F. and Hartley, C. W. N.d. The Structure of Ceramic Analysis: Multiple Scales and Instruments in the Analysis of Pottery Production. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
                 
         <div class="hr"></div> 
         
