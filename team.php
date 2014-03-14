@@ -24,6 +24,23 @@
 <div class="team_member">
 
 	<div class="team_member_photo">
+		<img src="_images/Cabrera.png">
+	</div>
+
+	<div class="team_member_info">
+<ul>
+<li class="researchers">Omar de la Cruz Cabrera</li>
+<li>Instructor, Department of Epidemiology and Biostatistics</li>
+<li>Case Western Reserve University</li>
+<li><a href="mailto:oxd21@case.edu">oxd21@case.edu</a></li>
+</ul>
+ 	</div> 
+
+</div> <!-- end team_member -->
+
+<div class="team_member">
+
+	<div class="team_member_photo">
 		<img src="_images/Chinander.png">
 	</div>
 
@@ -37,7 +54,6 @@
 	</div> 
 
 </div> <!-- end team_member -->
-
 
 <div class="team_member">
 
@@ -167,7 +183,7 @@
 	<div class="team_member_info">
 <ul>
 <li class="researchers">Lori Khatchadourian</li>
-<li>Postdoctoral Assistant Professor, Department of Anthropology</li>
+<li>Assistant Professor, Department of Near Eastern Studies</li>
 <li>Cornell University</li>
 <li><a href="mailto:lk323@cornell.edu">lk323@cornell.edu</a></li>
 </ul>
