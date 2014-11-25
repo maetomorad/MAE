@@ -24,7 +24,7 @@
 <div class="team_member">
 
 	<div class="team_member_photo">
-		<img src="_images/Cabrera.png">
+		<img src="_images/placeholder.png">
 	</div>
 
 	<div class="team_member_info">
