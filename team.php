@@ -98,9 +98,9 @@
 	<div class="team_member_info">
 <ul>
 <li class="researchers">Paula Doumani</li>
-<li>Ph.D. Candidate, Department of Anthropology</li>
+<li>Research Fellow, Department of Anthropology</li>
 <li>Washington University in Saint Louis</li>
-<li><a href="mailto:pauladoumani@go.wustl.edu">pauladoumani@go.wustl.edu</a></li>
+<li><a href="mailto:pauladoumani@wustl.edu">pauladoumani@go.wustl.edu</a></li>
 </ul>
 	</div> 
 
@@ -132,7 +132,7 @@
 	<div class="team_member_info">
 <ul>
 <li class="researchers">Alan Greene</li>
-<li>Postdoctoral Fellow in Archaeological Science, Stanford Archaeology Center</li>
+<li>Postdoctoral Fellow, Department of Anthropology, Stanford Archaeology Center</li>
 <li>Stanford University</li>
 <li><a href="mailto:afgreene@stanford.edu">afgreene@stanford.edu</a></li>
 </ul>
@@ -217,7 +217,7 @@
 	<div class="team_member_info">
 <ul>
 <li class="researchers">David Peterson</li>
-<li>Assistant Professor, Department of Anthropology</li>
+<li>Affilate Professor, Department of Anthropology</li>
 <li>Idaho State University</li>
 <li><a href="mailto:petedavi@isu.edu">petedavi@isu.edu</a></li>
 </ul>
@@ -234,9 +234,9 @@
 	<div id="lastmember" class="team_member_info">
 		<ul>
 		<li class="researchers">Adam T. Smith</li>
-		<li>Associate Professor, Department of Anthropology</li>
-		<li>University of Chicago</li>
-		<li><a href="mailto:atsmith@uchicago.edu">atsmith@uchicago.edu</a></li>
+		<li>Professor, Department of Anthropology</li>
+		<li>Cornell University</li>
+		<li><a href="mailto:atsmith@uchicago.edu">ats73@cornell.edu</a></li>
 		</ul> 
 	</div> 
 
