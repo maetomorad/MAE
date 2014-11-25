@@ -100,7 +100,7 @@
 <li class="researchers">Paula Doumani</li>
 <li>Research Fellow, Department of Anthropology</li>
 <li>Washington University in Saint Louis</li>
-<li><a href="mailto:pauladoumani@wustl.edu">pauladoumani@go.wustl.edu</a></li>
+<li><a href="mailto:pauladoumani@wustl.edu">pauladoumani@wustl.edu</a></li>
 </ul>
 	</div> 
 
