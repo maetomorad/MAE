@@ -15,6 +15,18 @@
 			<div id="content_inner">
 			
 				<h2>Publications</h2>
+                <p> Greene, A. F., C. W. Hartley, D. Cookson, Cabrera, Omar de la-C., and A. T. Smith. N.d. Evaluating Ceramic Micro-structures with Synchrotron X-ray Scattering: A Nano-scale Perspective on Pottery Technology. manuscript submitted to <em>Archaeological Science</em>.</p> 
+                
+        <div class="hr"></div> 
+        
+                 <p> Greene, A. F., C. W. Hartley, and P. N. Doumani. N.d. X-ray Perspectives: Structural Analyses of Ancient Eurasian Archaeological Pottery Accomplished with Digital Radiography. manuscript submitted to <em>Archaeomtery</em>.</p> 
+                
+        <div class="hr"></div> 
+        
+                <p> Greene, A. F., C. W. Hartley, P. N. Doumani, and M. Chinander. N.d. The Digital Radiography of Archaeological Pottery: Program and Protocols for the Analysis of Production. manuscript submitted to <em>Archaeomtery</em>.</p> 
+                
+        <div class="hr"></div> 
+        
 				<p> Greene, A. F. and Hartley, C. W. N.d. The Structure of Ceramic Analysis: Multiple Scales and Instruments in the Analysis of Pottery Production. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
                 
         <div class="hr"></div> 
