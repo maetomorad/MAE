@@ -23,7 +23,7 @@
                 
         <div class="hr"></div> 
         
-				<p>Doumani, P.N., Frachetti, M.D., Beardmore, R., Schmaus, T., Spengler III, R.N., Mar'yashev, A.N. In review. Innovation and Stability in Burial Ritual, Seasonal Agriculture, and Craft Traditions among Bronze Age Mobile Pastoralists as Tasbas (SE Kazakhstan). manuscript submitted to <em> World Archaeology</em>.</p> 
+				<p>Doumani, P.N., Frachetti, M.D., Beardmore, R., Schmaus, T., Spengler, R.N., Mar'yashev, A.N. In review. Burial Ritual, Agriculture, and Craft Production among Bronze Age Pastoralists at Tasbas (Kazakhstan). manuscript submitted to <em>Archaeological Research in Asia</em>.</p> 
                 
         <div class="hr"></div>        
                 
