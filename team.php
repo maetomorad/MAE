@@ -97,9 +97,10 @@
 
 	<div class="team_member_info">
 <ul>
-<li class="researchers">Paula Doumani</li>
-<li>Research Fellow, Department of Anthropology</li>
-<li>Washington University in Saint Louis</li>
+<li class="researchers">Paula Doumani Dupuy</li>
+<li>Postdoctoral Research Fellow, Graduate School "Human
+Development in Landscapes"</li>
+<li>Christian-Albrechts-Universität zu Kiel, Germany</li>
 <li><a href="mailto:pauladoumani@wustl.edu">pauladoumani@wustl.edu</a></li>
 </ul>
 	</div> 
