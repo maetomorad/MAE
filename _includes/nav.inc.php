@@ -55,6 +55,7 @@
 			<li><a target="_blank" href="http://corinth.uchicago.edu/maewiki/doku.php">Wiki</a></li> 
             <li><a target="_blank" href="http://corinth.uchicago.edu/repid/">REPID</a></li>
             <li><a target="_blank" href="http://mae.uchicago.edu/References/">Library</a></li>
+            <li><a href="ShIVA.php">ShIVA</a></li>
 			<!--
 			<li><a href="certifications.php">Certifications</a></li>				
 			<li><a href="forms.php">Forms</a></li>
