@@ -45,6 +45,7 @@
 
 
 		</div><!--end footer_inner-->
+        
         <div id="org_logos_horizontal">
 			<img id="Institutions" src="_images/Institution_Logos-extra_slim2.png" usemap="#Image-Maps_Institutions" border="0" width="900" height="100" alt="Institutions" />
 			<map id="_Image-Maps_Institutions" name="Image-Maps_Institutions">
@@ -57,6 +58,7 @@
 			<area shape="rect" coords="551,51,750,100" target="_blank" href="http://www.cornell.edu" alt="Cornell University" title="Cornell University"    />
 			</map>
 		</div>
+        
         <div id="footer_outer">
         	<ul>
         		<li id="last">Copyright 2012, MAE Project</li>
