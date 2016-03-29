@@ -87,11 +87,28 @@
 	border: 1px solid black;
 	}
 
-#footer_outer {
+#footer_outer li{
 	margin: 0;
 	padding: 30px 0 0 0 ;
+	list-style: none;
+	line-height: 15px;
 	}
 
+#footer_outer li#last {
+	padding-top: 100px;
+	font-family: Futura;
+	font-style: italic;
+	}
+
+#footer_outer li#phlabs {
+	font-family: Futura;
+	font-style: italic;
+	}
+
+#footer_outer li#phlabs a {
+	color: black;
+	}
+	
 #contact {
 	padding: 10px 0 0 5px;
 	}
