@@ -23,7 +23,7 @@
                 NOTE: For proper use of ShIVA in Windows, your computer must have an updated version of the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=26999" target="_blank">C++ redistributable package update for Visual Studio 2010</a> installed. Visit the previous link and select "Download," followed by the version of the package that matches your system configuration. After the download is complete, run the resultant installer.</p>
                 <p><a href="ShIVA.dmg">Mac/OSX</a><br />
                 NOTE: For proper use of ShIVA in OSX, your computer must have <a href="http://www.xquartz.org" target="_blank">XQuartz</a> installed and be <a href="http://www.macworld.co.uk/how-to/mac-software/how-show-hidden-files-in-mac-os-x-finder-funter-3520878/" target="_blank">set to show hidden files</a>.</p>
-               <p> <a href="ShIVA.pro">Linux</a><br />
+               <p> <a href="ShIVA_linux.zip">Linux</a><br />
                 The software can also be downloaded from <a href="http://sourceforge.net" target="_blank">sourceforge.net</a>.</p>
                 
 
