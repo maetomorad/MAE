@@ -22,11 +22,7 @@
                  <p> Greene, A. F., C. W. Hartley, and P. N. Doumani. N.d. X-ray Perspectives: Structural Analyses of Ancient Eurasian Archaeological Pottery Accomplished with Digital Radiography. manuscript submitted to <em>Archaeomtery</em>.</p> 
                 
         <div class="hr"></div> 
-        
-                <p> Greene, A. F., C. W. Hartley, P. N. Doumani, and M. Chinander. N.d. The Digital Radiography of Archaeological Pottery: Program and Protocols for the Analysis of Production. manuscript submitted to <em>Archaeomtery</em>.</p> 
                 
-        <div class="hr"></div> 
-        
 				<p> Greene, A. F. and Hartley, C. W. N.d. The Structure of Ceramic Analysis: Multiple Scales and Instruments in the Analysis of Pottery Production. In <em><a target="_blank" href="https://www.equinoxpub.com/equinox/books/showbook.asp?bkid=592">Renewing the Search for Structure: Applying Multiple Scales and Instruments in the Analysis of Production</a></em>, A. F. Greene and C. W. Hartley, eds. Equinox Publishing, London.</p> 
                 
         <div class="hr"></div> 
@@ -38,7 +34,11 @@
 				<p>Doumani, P.N., Frachetti, M.D., Beardmore, R., Schmaus, T., Spengler, R.N., Mar'yashev, A.N. In review. Burial Ritual, Agriculture, and Craft Production among Bronze Age Pastoralists at Tasbas (Kazakhstan). manuscript submitted to <em>Archaeological Research in Asia</em>.</p> 
                 
         <div class="hr"></div>        
+
+   <p> Greene, A. F., C. W. Hartley, P. N. Doumani Dupuy, and M. Chinander. 2017. <a target="_blank" href="http://www.sciencedirect.com/science?_ob=GatewayURL&_origin=IRSSSEARCH&_method=citationSearch&_piikey=S0305440316301704&_version=1&md5=e6e3e9e0034fad58dea835a7e4d0d09f">The Digital Radiography of Archaeological Pottery: Program and Protocols for the Analysis of Production</a>. <em>Archaeometry</em> 78:120-133.</p> 
                 
+        <div class="hr"></div> 
+                        
 				<p>Greene, Alan F. 2012. Where Pottery and Politics Meet: Mundane Objects and Complex Political Life in the Late Bronze Age South Caucasus. In <em><a target="_blank" href="http://www.cambridge.org/us/academic/subjects/archaeology/prehistory/archaeology-power-and-politics-eurasia-regimes-and-revolutions">The Archaeology of Power and Politics in Eurasia: Regimes and Revolutions</a></em>, C. W. Hartley, G. B. Yazicioğlu, and A. T. Smith, eds. Cambridge University Press, Cambridge.</p> 
 				
 <div class="hr"></div>
